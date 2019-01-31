@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+
+# Texmaker Files
+*.aux
+*.log
+*.synctex.gz
+
